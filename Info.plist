@@ -1,0 +1,226 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c0\c0\c0\cname textColor;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+<?xml version="1.0" encoding="UTF-8"?>\
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">\
+<plist version="1.0">\
+<dict>\
+	<key>32BitSupportedModels</key>\
+	<array>\
+		<string>MacBook10,1</string>\
+		<string>MacBookAir8,1</string>\
+		<string>MacBookPro15,2</string>\
+		<string>MacPro6,1</string>\
+		<string>Macmini8,1</string>\
+		<string>iMac18,3</string>\
+		<string>iMacPro1,1</string>\
+		<string>Xserve3,1</string>\
+		<string>Parallels14,1</string>\
+	</array>\
+	<key>BuildMachineOSBuild</key>\
+	<string>16B2657</string>\
+	<key>CFBundleDevelopmentRegion</key>\
+	<string>English</string>\
+	<key>CFBundleDisplayName</key>\
+	<string>Boot Camp Assistant</string>\
+	<key>CFBundleExecutable</key>\
+	<string>Boot Camp Assistant</string>\
+	<key>CFBundleGetInfoString</key>\
+	<string>Boot Camp Assistant 6.1.0, Copyright \'a9 2016 Apple Inc. All rights reserved</string>\
+	<key>CFBundleIconFile</key>\
+	<string>DA</string>\
+	<key>CFBundleIdentifier</key>\
+	<string>com.apple.bootcampassistant</string>\
+	<key>CFBundleInfoDictionaryVersion</key>\
+	<string>6.0</string>\
+	<key>CFBundleName</key>\
+	<string>Boot Camp Assistant</string>\
+	<key>CFBundlePackageType</key>\
+	<string>APPL</string>\
+	<key>CFBundleShortVersionString</key>\
+	<string>6.1.0</string>\
+	<key>CFBundleSignature</key>\
+	<string>????</string>\
+	<key>CFBundleSupportedPlatforms</key>\
+	<array>\
+		<string>MacOSX</string>\
+	</array>\
+	<key>CFBundleVersion</key>\
+	<string>6067.60.1</string>\
+	<key>DARequiredROMVersions</key>\
+	<array>\
+		<string>14.1.0 (45387)</string>\
+		<string>96.0.0.0.0</string>\
+		<string>MBP112.0138.B16</string>\
+		<string>MBP111.0138.B16</string>\
+		<string>MBP102.0106.B0A</string>\
+		<string>MBP101.00EE.B0A</string>\
+		<string>MBP81.0047.2AB</string>\
+		<string>MBP81.0047.B2A</string>\
+		<string>MBP61.0057.B11</string>\
+		<string>MBP55.00AC.B03</string>\
+		<string>MBP53.00AC.B03</string>\
+		<string>MBP52.008E.B05</string>\
+		<string>MBP51.007E.B06</string>\
+		<string>MBP31.0070.B07</string>\
+		<string>MBP22.00A5.B07</string>\
+		<string>MBP21.00A5.B08</string>\
+		<string>MBP12.0061.B03</string>\
+		<string>MBP11.0055.B08</string>\
+		<string>MBA61.0099.B20</string>\
+		<string>MBA51.00EF.B04</string>\
+		<string>MBA41.0077.B12</string>\
+		<string>MBA31.0061.B07</string>\
+		<string>MBA21.0075.B03</string>\
+		<string>MBA11.00BB.B03</string>\
+		<string>MB71.0039.B0E</string>\
+		<string>MB52.0088.B05</string>\
+		<string>MB51.007D.B03</string>\
+		<string>MB31.008E.B02</string>\
+		<string>MB21.00A5.B07</string>\
+		<string>MB11.0061.B03</string>\
+		<string>IM114.0179.B12</string>\
+		<string>IM141.0118.B12</string>\
+		<string>IM131.010A.B09</string>\
+		<string>IM121.0047.B21</string>\
+		<string>IM121.0047.21B</string>\
+		<string>IM112.0057.03B</string>\
+		<string>IM111.0034.04B</string>\
+		<string>IM91.008D.B08</string>\
+		<string>IM71.007A.B03</string>\
+		<string>IM51.0090.B09</string>\
+		<string>IM61.0093.B07</string>\
+		<string>IM52.0090.B09</string>\
+		<string>IM42.0071.B03</string>\
+		<string>IM41.0055.B08</string>\
+		<string>MM71.0220.B06</string>\
+		<string>MM61.0106.B0A</string>\
+		<string>MM51.0077.B12</string>\
+		<string>MM41.0042.B03</string>\
+		<string>MM31.0081.B06</string>\
+		<string>MM11.0055.B08</string>\
+		<string>MP61.0116.B16</string>\
+		<string>MP51.007F.B03</string>\
+		<string>MP41.0081.B07</string>\
+		<string>MP31.006C.B05</string>\
+		<string>MP21.007F.B06</string>\
+		<string>MP11.005C.B08</string>\
+		<string>XS31.0081.B06</string>\
+		<string>XS21.006C.B06</string>\
+		<string>XS11.0080.B01</string>\
+          <string>\cf3 \kerning1\expnd0\expndtw0 MBP81.0050.B00</string>
+\f1\fs22 \
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\
+	</array>\
+	<key>DTCompiler</key>\
+	<string>com.apple.compilers.llvm.clang.1_0</string>\
+	<key>DTPlatformBuild</key>\
+	<string>9P107g</string>\
+	<key>DTPlatformVersion</key>\
+	<string>GM</string>\
+	<key>DTSDKBuild</key>\
+	<string>17G2062</string>\
+	<key>DTSDKName</key>\
+	<string>macosx10.13internal</string>\
+	<key>DTXcode</key>\
+	<string>0930</string>\
+	<key>DTXcodeBuild</key>\
+	<string>9P107g</string>\
+	<key>ExternalInstallOnlyModels</key>\
+	<array/>\
+	<key>LSApplicationCategoryType</key>\
+	<string>public.app-category.utilities</string>\
+	<key>LSMinimumSystemVersion</key>\
+	<string>10.0.0</string>\
+	<key>NSMainNibFile</key>\
+	<string>MainMenu</string>\
+	<key>NSPrincipalClass</key>\
+	<string>NSApplication</string>\
+	<key>PreESDRequiredModels</key>\
+	<array>\
+		<string>MacBook10</string>\
+		<string>MacBookAir8</string>\
+		<string>MacBookPro15</string>\
+		<string>MacPro6</string>\
+		<string>Macmini8</string>\
+		<string>iMac18</string>\
+		<string>iMacPro1</string>\
+		<string>Xserve3</string>\
+		<string>Parallels14</string>\
+          <string>MacBookPro8,1</string>\
+\pard\pardeftab720\partightenfactor0
+\cf2           <string>MacBookPro8,2</string>\
+          <string>MacBookPro5</string>\
+          <string>MacBookPro5,1</string>\
+          <string>MacBookPro5,2</string>\
+          <string>MacBookPro6</string>\
+          <string>MacBookPro6,1</string>\
+          <string>MacBookPro6,2</string>\
+          <string>MacBookPro7</string>\
+          <string>MacBookPro7,1</string>\
+          <string>MacBook5,1</string>\
+	</array>\
+	<key>PreUEFIModels</key>\
+	<array>\
+		<string>MacBook10</string>\
+		<string>MacBookAir8</string>\
+		<string>MacBookPro15</string>\
+		<string>MacPro6</string>\
+		<string>Macmini8</string>\
+		<string>iMac18</string>\
+		<string>iMacPro1</string>\
+		<string>Xserve3</string>\
+		<string>Parallels14</string>\
+          <string>MacBookPro8,1</string>\
+          <string>MacBookPro8,2</string>\
+          <string>MacBookPro5</string>\
+          <string>MacBookPro5,1</string>\
+          <string>MacBookPro5,2</string>\
+          <string>MacBookPro6</string>\
+          <string>MacBookPro6,1</string>\
+          <string>MacBookPro6,2</string>\
+          <string>MacBookPro7</string>\
+          <string>MacBookPro7,1</string>\
+          <string>MacBook5,1</string>\
+	</array>\
+	<key>USBBootSupportedModels</key>\
+	<array/>\
+          <string>MacBookPro8,1</string>\
+          <string>MacBookPro8,2</string>\
+          <string>MacBookPro5</string>\
+          <string>MacBookPro5,1</string>\
+          <string>MacBookPro5,2</string>\
+          <string>MacBookPro6</string>\
+          <string>MacBookPro6,1</string>\
+          <string>MacBookPro6,2</string>\
+          <string>MacBookPro7</string>\
+          <string>MacBookPro7,1</string>\
+          <string>MacBook5,1</string>\
+     <array/>\
+	<key>PreWindows10OnlyModels</key>\
+	<array>\
+		<string>MacBook10,1</string>\
+		<string>MacBookAir8,1</string>\
+		<string>MacBookPro15,2</string>\
+		<string>MacPro6,1</string>\
+		<string>Macmini8,1</string>\
+		<string>iMac18,3</string>\
+		<string>iMacPro1,1</string>\
+		<string>Xserve3,1</string>\
+		<string>Parallels14,1</string>\
+	</array>\
+	<key>SupporedNonWin10Models</key>\
+	<array/>\
+	<key>UEFIOnlyModels</key>\
+	<array/>\
+</dict>\
+</plist>\
+}
