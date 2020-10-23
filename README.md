@@ -5,3 +5,4 @@ This works for 2010-2011 MacBook Pros, Late 2008 Al MacBooks.
 If your Mac is not listed, let me know so I can add more.
 Replace your info.plist in bootcamp with the hacked info.plist created by me.
 Windows 7 is not an option in bootcamp anymore.
+Should work fr any Unibody Alimunum Mac.
